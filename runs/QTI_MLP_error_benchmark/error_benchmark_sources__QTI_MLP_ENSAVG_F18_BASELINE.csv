@@ -1,0 +1,5 @@
+artifact,path
+synthetic_clean_raw,C:\QTI_ML\runs\QTI_MLP_synthetic_compare\QTI_MLP_vs_GT_Results_2_MLP_ensavg.csv
+synthetic_snr_raw,C:\QTI_ML\runs\QTI_MLP_synthetic_compare\QTI_MLP_vs_GT_Results_SNR_fit_2_MLP_SNR30_ensavg.csv
+invivo_metrics,C:\QTI_ML\models\QTI_MLP\practice_eval\practice_eval_metrics_p1_p14_phys_wavg.csv
+prediction_maps_root,C:\QTI_ML\runs\QTI_MLP_predict\BENCHMARK_ABSTRACT_prediction

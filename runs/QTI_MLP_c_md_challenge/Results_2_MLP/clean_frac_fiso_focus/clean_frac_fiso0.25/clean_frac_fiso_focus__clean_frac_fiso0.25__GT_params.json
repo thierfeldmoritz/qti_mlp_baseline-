@@ -1,0 +1,14 @@
+{
+  "dtd_file": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\DTDs\\clean_frac_fiso_focus\\clean_frac_fiso0.25.json",
+  "xps_mat": "C:\\SynQTI-IR\\data\\xps\\xps_sub_min_pp.mat",
+  "gt": {
+    "E_SI_m2_per_s": 1.3475000000000002e-09,
+    "V_SI_m4_per_s2": 9.102520833333336e-19,
+    "E_um2_per_ms": 1.3475000000000001,
+    "V_um4_per_ms2": 0.9102520833333335,
+    "C_MD": 0.3339139034179935,
+    "FA": 0.46138922430397306,
+    "uFA": 0.4179591636682032,
+    "C_c": 1.2186168863168054
+  }
+}

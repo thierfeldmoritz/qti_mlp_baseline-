@@ -1,0 +1,14 @@
+{
+  "dtd_file": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\DTDs\\clean_partial_triplet_fiso_focus\\clean_triplet_fiso0.15_stick0.50.json",
+  "xps_mat": "C:\\SynQTI-IR\\data\\xps\\xps_sub_min_pp.mat",
+  "gt": {
+    "E_SI_m2_per_s": 1.054964444444445e-09,
+    "V_SI_m4_per_s2": 6.719827468839509e-19,
+    "E_um2_per_ms": 1.0549644444444448,
+    "V_um4_per_ms2": 0.6719827468839509,
+    "C_MD": 0.3764751114277194,
+    "FA": 0.46780398511431037,
+    "uFA": 0.4420910357316375,
+    "C_c": 1.119707060290371
+  }
+}

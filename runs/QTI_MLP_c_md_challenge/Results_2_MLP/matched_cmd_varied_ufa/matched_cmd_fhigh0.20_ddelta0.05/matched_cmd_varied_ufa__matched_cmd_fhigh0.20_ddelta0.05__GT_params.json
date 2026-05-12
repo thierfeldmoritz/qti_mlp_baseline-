@@ -1,0 +1,14 @@
+{
+  "dtd_file": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\DTDs\\matched_cmd_varied_ufa\\matched_cmd_fhigh0.20_ddelta0.05.json",
+  "xps_mat": "C:\\SynQTI-IR\\data\\xps\\xps_sub_min_pp.mat",
+  "gt": {
+    "E_SI_m2_per_s": 1.24e-09,
+    "V_SI_m4_per_s2": 7.744000000000005e-19,
+    "E_um2_per_ms": 1.24,
+    "V_um4_per_ms2": 0.7744000000000004,
+    "C_MD": 0.3349480968858175,
+    "FA": 0.0863868425581491,
+    "uFA": 0.08638684255817054,
+    "C_c": 0.9999999999995034
+  }
+}

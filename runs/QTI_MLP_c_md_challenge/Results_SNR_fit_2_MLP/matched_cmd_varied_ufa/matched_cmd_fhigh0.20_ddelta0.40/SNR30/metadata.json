@@ -1,0 +1,17 @@
+{
+  "scenario": "matched_cmd_varied_ufa",
+  "case": "matched_cmd_fhigh0.20_ddelta0.40",
+  "SNR": 30,
+  "n_realizations": 100,
+  "seed": 99629,
+  "dtd_file": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\DTDs\\matched_cmd_varied_ufa\\matched_cmd_fhigh0.20_ddelta0.40.json",
+  "gt_json": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\Results_2_MLP\\matched_cmd_varied_ufa\\matched_cmd_fhigh0.20_ddelta0.40\\matched_cmd_varied_ufa__matched_cmd_fhigh0.20_ddelta0.40__GT_params.json",
+  "btens_file": "C:\\SynQTI-IR\\data\\xps\\xps_sub_min_pp.mat",
+  "verified_shape": [
+    1,
+    1,
+    1,
+    54
+  ],
+  "verified_noise_variation": true
+}

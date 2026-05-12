@@ -1,0 +1,17 @@
+{
+  "scenario": "clean_frac_fiso_focus",
+  "case": "clean_frac_fiso0.15",
+  "SNR": 30,
+  "n_realizations": 100,
+  "seed": 51917,
+  "dtd_file": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\DTDs\\clean_frac_fiso_focus\\clean_frac_fiso0.15.json",
+  "gt_json": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\Results_2_MLP\\clean_frac_fiso_focus\\clean_frac_fiso0.15\\clean_frac_fiso_focus__clean_frac_fiso0.15__GT_params.json",
+  "btens_file": "C:\\SynQTI-IR\\data\\xps\\xps_sub_min_pp.mat",
+  "verified_shape": [
+    1,
+    1,
+    1,
+    54
+  ],
+  "verified_noise_variation": true
+}

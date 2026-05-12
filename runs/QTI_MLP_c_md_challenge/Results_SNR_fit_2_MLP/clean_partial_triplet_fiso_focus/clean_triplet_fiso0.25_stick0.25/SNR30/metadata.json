@@ -1,0 +1,17 @@
+{
+  "scenario": "clean_partial_triplet_fiso_focus",
+  "case": "clean_triplet_fiso0.25_stick0.25",
+  "SNR": 30,
+  "n_realizations": 100,
+  "seed": 97176,
+  "dtd_file": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\DTDs\\clean_partial_triplet_fiso_focus\\clean_triplet_fiso0.25_stick0.25.json",
+  "gt_json": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\Results_2_MLP\\clean_partial_triplet_fiso_focus\\clean_triplet_fiso0.25_stick0.25\\clean_partial_triplet_fiso_focus__clean_triplet_fiso0.25_stick0.25__GT_params.json",
+  "btens_file": "C:\\SynQTI-IR\\data\\xps\\xps_sub_min_pp.mat",
+  "verified_shape": [
+    1,
+    1,
+    1,
+    54
+  ],
+  "verified_noise_variation": true
+}

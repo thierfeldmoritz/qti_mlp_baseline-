@@ -1,0 +1,17 @@
+{
+  "scenario": "clean_iso_bimod_high_variance",
+  "case": "clean_iso_bimod_mean0.80_V0.27",
+  "SNR": 30,
+  "n_realizations": 100,
+  "seed": 44177,
+  "dtd_file": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\DTDs\\clean_iso_bimod_high_variance\\clean_iso_bimod_mean0.80_V0.27.json",
+  "gt_json": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\Results_2_MLP\\clean_iso_bimod_high_variance\\clean_iso_bimod_mean0.80_V0.27\\clean_iso_bimod_high_variance__clean_iso_bimod_mean0.80_V0.27__GT_params.json",
+  "btens_file": "C:\\SynQTI-IR\\data\\xps\\xps_sub_min_pp.mat",
+  "verified_shape": [
+    1,
+    1,
+    1,
+    54
+  ],
+  "verified_noise_variation": true
+}

@@ -1,0 +1,14 @@
+{
+  "dtd_file": "C:\\QTI_ML\\runs\\QTI_MLP_c_md_challenge\\DTDs\\clean_iso_bimod_high_variance\\clean_iso_bimod_mean0.80_V0.60.json",
+  "xps_mat": "C:\\SynQTI-IR\\data\\xps\\xps_sub_min_pp.mat",
+  "gt": {
+    "E_SI_m2_per_s": 7.999999999999998e-10,
+    "V_SI_m4_per_s2": 6.000000000000004e-19,
+    "E_um2_per_ms": 0.7999999999999998,
+    "V_um4_per_ms2": 0.6000000000000003,
+    "C_MD": 0.48387096774192706,
+    "FA": 0.08638684255813811,
+    "uFA": 0.08638684255819026,
+    "C_c": 0.9999999999987927
+  }
+}

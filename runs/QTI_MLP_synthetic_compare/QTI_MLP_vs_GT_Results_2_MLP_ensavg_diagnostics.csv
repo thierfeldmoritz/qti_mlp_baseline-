@@ -1,0 +1,6 @@
+param,N_total,N_invalid,invalid_pred_nonfinite,invalid_gt_nonfinite,cc_cond_fa_nonfinite,cc_cond_ufa_nonfinite,cc_cond_ufa_le_zero,cc_cond_fa_lt_zero
+MD,74,0,0,0,,,,
+FA,74,6,0,6,,,,
+uFA,74,4,0,4,,,,
+C_c,74,13,0,13,6.0,4.0,13.0,0.0
+C_MD,74,0,0,0,,,,
